@@ -1,5 +1,5 @@
 # EME-BI_TEVC22
 
-This repository contains the experiment results of the EME-BI algorithm.
+This repository contains the implementation and experimental results of the EME-BI algorithm from the paper:
 
-The paper is currently under review and the algorithm's source codes will be online shortly after the acceptance.
+Huynh Thi Thanh Binh, Le Van Cuong, Ta Bao Thang, and Nguyen Hoang Long, "Ensemble Multifactorial Evolution with Biased Skill-Factor Inheritance for Many-task Optimization." IEEE Transactions on Evolutionary Computation (2022). doi: 10.1109/TEVC.2022.3227120.
